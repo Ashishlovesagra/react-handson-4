@@ -6,7 +6,7 @@ function AboutUs() {
   return (
     <div>
       <Navbar />
-      <div>Contact Us</div>
+      <div className="contact">Contact Us</div>
     </div>
   );
 }

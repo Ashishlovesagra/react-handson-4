@@ -4,9 +4,9 @@ import Navbar from "./Navbar";
 
 function Home() {
   return (
-    <div className="home">
+    <div>
       <Navbar />
-      <div >Home Page</div>
+      <div className="home">Home Page</div>
     </div>
   );
 }
